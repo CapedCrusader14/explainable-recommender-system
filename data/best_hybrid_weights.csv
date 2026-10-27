@@ -1,0 +1,2 @@
+content_weight,collaborative_weight,popularity_weight,validation_ndcg_at_10,validation_map_at_10,validation_precision_at_10
+0.3,0.1,0.6,0.04811017568468736,0.022081733556771743,0.03161512027491409

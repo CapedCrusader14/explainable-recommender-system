@@ -1,0 +1,6 @@
+Metric,Popularity Baseline,User-Profile TF-IDF,User-Based Collaborative Filtering,Hybrid
+Precision@K,0.0545,0.0389,0.0162,0.0615
+Recall@K,0.0491,0.0342,0.0163,0.0543
+NDCG@K,0.0614,0.0514,0.0199,0.0772
+MAP@K,0.0264,0.0228,0.0072,0.0355
+MRR,0.1216,0.1302,0.05,0.1742
