@@ -1,5 +1,5 @@
-CineMatch — Hybrid Movie Recommendation System
-CineMatch combines popularity-based ranking, content-based filtering, and user-based collaborative filtering to recommend movies. It also evaluates the component models and tunes hybrid weights using validation data.
+ Hybrid Movie Recommendation System
+it combines popularity-based ranking, content-based filtering, and user-based collaborative filtering to recommend movies. It also evaluates the component models and tunes hybrid weights using validation data.
 
 Repository: https://github.com/CapedCrusader14/explainable-recommender-system
 Table of Contents
